@@ -1,2 +1,2 @@
 # testGit
-test 전용
+testGit 소스관리
